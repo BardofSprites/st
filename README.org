@@ -1,0 +1,13 @@
+#+TITLE: St terminal
+
+The [suckless terminal (st)](https://st.suckless.org/) with some additional
+features that make it literally the best terminal emulator ever:
+
+This is my configuration of Luke Smith's st build. I just changed small things to make it work for me.
+I use Xresources for color theming, but I did make a [[https://protesilaos.com/emacs/modus-themes][modus-vivendi]] theme for it defined in the source code of config.h
+
+* Screenshots
+[[file:img/st.png]]
+
+[[file:img/compositor.png]]
+
